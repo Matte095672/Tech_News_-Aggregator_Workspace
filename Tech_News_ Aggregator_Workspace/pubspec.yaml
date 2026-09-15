@@ -1,0 +1,9 @@
+name: tech_news_aggregator_workspace
+
+environment:
+  sdk: ^3.8.1
+
+workspace:
+  - terminal_colors
+  - tech_news_api
+  - tech_news_cli
